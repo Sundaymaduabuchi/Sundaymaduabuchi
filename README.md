@@ -28,7 +28,7 @@ When I'm not working with data, I enjoy [Sport and News]. I love the "aha!" mome
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Building a Churn forecasting model in Python. 
-- **Project B:**  Creating an interactive marketing dashboard in Power BI.]
+- **Project B:**  Creating an interactive marketing dashboard in Power BI.
 
 
 ## 🌱 Currently Learning 
